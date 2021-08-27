@@ -4,3 +4,7 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 
 # Node
 https://github.com/nvm-sh/nvm
+
+
+# SSH
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
